@@ -4,6 +4,7 @@ body {
     color: white;
 }
 
-h1{color:green;}
-
-
+h1 {
+    color: grey;
+    font-family: verdana;
+}
